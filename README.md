@@ -21,6 +21,7 @@ On my freetime I sometimes make games, mobile apps, mods for games, tinker with 
 #### 🙈 - Frontend & Mobile:
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ionic](https://img.shields.io/badge/ionic-%232C8EBB.svg?style=for-the-badge&logo=ionic&logoColor=%2361DAFB)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -61,6 +62,13 @@ On my freetime I sometimes make games, mobile apps, mods for games, tinker with 
 ![Azure DevOps](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
+#### 🧪 Testing and Quality Assurance
+![Selenium](https://img.shields.io/badge/Selenium-%7bc769.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![Moq](https://img.shields.io/badge/Moq-000000?style=for-the-badge&logo=Moq&logoColor=fff)
+![MsTest](https://img.shields.io/badge/MsTest-3670A0?style=for-the-badge&logo=MsTest&logoColor=fff)
+
+
 #### Others:
 ![Windows](https://img.shields.io/badge/windows-3670A0?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23ED8B00?style=for-the-badge&logo=linux&logoColor=white)
@@ -73,6 +81,7 @@ On my freetime I sometimes make games, mobile apps, mods for games, tinker with 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
+
 #### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -80,9 +89,13 @@ On my freetime I sometimes make games, mobile apps, mods for games, tinker with 
 ![InteliJ Rider](https://img.shields.io/badge/IntelliJ_RIDER-000000.svg?style=for-the-badge&logo=intellij-rider&logoColor=white)
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
