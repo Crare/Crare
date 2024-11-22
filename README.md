@@ -2,7 +2,7 @@
 
 
 I am a software developer from Finland. Currently working with Azure cloud services and mobile-app development.
-On my freetime I sometimes make games, mobile apps, mods for games, tinker with IoT and home automation, etc.
+On my freetime I sometimes make [games](https://jukepoks1.itch.io), mobile apps, mods for games, tinker with IoT and home automation, etc.
 
 
 ## 📊 GitHub Stats :
