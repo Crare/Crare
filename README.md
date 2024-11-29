@@ -12,6 +12,11 @@ On my freetime I sometimes make [games](https://jukepoks1.itch.io), mobile apps,
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crare&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+[![](https://visitcount.itsvg.in/api?id=Crare&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 <!-- ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Crare&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
@@ -108,4 +113,3 @@ On my freetime I sometimes make [games](https://jukepoks1.itch.io), mobile apps,
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Crare&icon=0&color=0)](https://visitcount.itsvg.in)
