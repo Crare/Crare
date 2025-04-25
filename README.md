@@ -25,7 +25,9 @@ On my freetime I sometimes make games[(1)](https://jukepoks1.itch.io) [(2)](http
 
 <!-- https://github.com/inttter/md-badges -->
 <!-- https://shields.io/badges -->
-
+<details>
+  <summary>Click here to show</summary>
+  
 #### 🙈 - Frontend & Mobile:
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -110,6 +112,7 @@ On my freetime I sometimes make games[(1)](https://jukepoks1.itch.io) [(2)](http
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+</details>
 
 ---
 
