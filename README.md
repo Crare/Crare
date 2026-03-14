@@ -12,8 +12,7 @@ On my freetime I sometimes make games[(1)](https://jukepoks1.itch.io) [(2)](http
 
 ---
 
-<!-- ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Crare&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+[![Crare profile views](https://u8views.com/api/v1/github/profiles/10487241/views/total-count.svg)](https://u8views.com/github/Crare)
 
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
