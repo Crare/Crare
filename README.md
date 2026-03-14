@@ -22,6 +22,8 @@ On my freetime I sometimes make games[(1)](https://jukepoks1.itch.io) [(2)](http
 <details>
   <summary>Click here to show</summary>
 
+---
+
   Some things I am familiar with.
   
 #### 🙈 - Frontend & Mobile:
