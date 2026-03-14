@@ -11,7 +11,7 @@ On my freetime I sometimes make games[(1)](https://jukepoks1.itch.io) [(2)](http
 
 
 ---
-
+<!-- [![Crare profile views](https://u8views.com/api/v1/github/profiles/10487241/views/day-week-month-total-count.svg)](https://u8views.com/github/Crare) -->
 [![Crare profile views](https://u8views.com/api/v1/github/profiles/10487241/views/total-count.svg)](https://u8views.com/github/Crare)
 
 
